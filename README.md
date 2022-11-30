@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Gamal2
 - 👀 I’m interested in Football 
-- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me Muhammad.gamal2@icloud.com
 
